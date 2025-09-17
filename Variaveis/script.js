@@ -48,7 +48,7 @@ console.log(cidade); // São Paulo
 let time = "Corinthians";
 console.log(time);
 //ex erro
-;// let time = "Palmeiras"; // erro
+// let time = "Palmeiras"; // erro
 
 const anime = "Shingeki no Kyojin";
 console.log(anime);
